@@ -1,0 +1,1 @@
+This repository demonstrates a common error in VBScript: a function that omits a return statement when it's expected to return a value.  The bug.vbs file shows the erroneous function, and bugSolution.vbs provides the corrected version.
